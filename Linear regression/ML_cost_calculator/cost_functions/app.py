@@ -1,5 +1,5 @@
 import numpy as np
-from cost_functions.losses import (
+from losses import (
     mean_squared_error,
     mean_absolute_error,
     binary_cross_entropy,
